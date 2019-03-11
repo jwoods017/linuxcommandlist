@@ -54,3 +54,9 @@ g++ <file name> -o <output file name>       name the output of a compilation
 exit
 echo [options] [strings]
 du      gives the disk usage of a file in your system
+ping [hostname] //checks connection to a server
+hostname //shows your name on your network
+hostname -I //shows your ip address on your network
+[command 1] && [command 2] //&& allows you to run multiple commands at once
+history //shows a list of recent commands
+dir //shows all folders and files in current directory
